@@ -1,0 +1,5 @@
+# CI-only dependencies — used by GitHub Actions cron job only.
+# Minimal install: fetch + render the contribution heatmap.
+# Does NOT include portrait-pipeline packages (pillow, rembg, opencv, numpy).
+requests==2.32.3
+beautifulsoup4==4.12.3

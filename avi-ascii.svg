@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+xmlns="http://www.w3.org/2000/svg"
+width="560"
+height="630"
+viewBox="0 0 560 630">
+
+
+<rect
+x="0"
+y="0"
+width="560"
+height="630"
+rx="16"
+fill="#0d1117"
+
+stroke="#30363d"
+stroke-width="1"
+/>
+
+<rect
+x="0"
+y="0"
+width="560"
+height="42"
+rx="16"
+fill="#161b22"
+/>
+
+<rect
+x="0"
+y="21"
+width="560"
+height="21"
+rx="0"
+fill="#161b22"
+/>
+
+<circle
+cx="22"
+cy="21"
+r="6"
+fill="#ff5f56"/>
+
+
+<circle
+cx="44"
+cy="21"
+r="6"
+fill="#ffbd2e"/>
+
+
+<circle
+cx="66"
+cy="21"
+r="6"
+fill="#27c93f"/>
+
+
+<text
+x="280"
+y="27"
+font-family="monospace"
+font-size="13"
+font-weight="normal"
+text-anchor="middle"
+fill="#8b949e">
+terminal
+</text>
+
+
+<text
+x="26"
+y="68"
+font-family="monospace"
+font-size="18"
+font-weight="bold"
+text-anchor="start"
+fill="#7ee787">
+akshita30
+</text>
+
+
+<text
+x="116"
+y="68"
+font-family="monospace"
+font-size="18"
+font-weight="normal"
+text-anchor="start"
+fill="#c9d1d9">
+@
+</text>
+
+
+<text
+x="126"
+y="68"
+font-family="monospace"
+font-size="18"
+font-weight="normal"
+text-anchor="start"
+fill="#58a6ff">
+github
+</text>
+
+<line x1="22" y1="78" x2="538" y2="78" stroke="#30363d" stroke-width="1"/>
+
+<text
+x="26"
+y="100"
+font-family="monospace"
+font-size="20"
+font-weight="normal"
+text-anchor="start"
+fill="#7ee787">
+$
+</text>
+
+
+<g opacity="0">
+
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="0.4s"
+dur="0.25s"
+fill="freeze"/>
+
+<animateTransform
+attributeName="transform"
+type="translate"
+from="0,8"
+to="0,0"
+begin="0.4s"
+dur="0.25s"
+fill="freeze"/>
+
+<text
+x="46"
+y="100"
+font-family="monospace"
+font-size="19"
+font-weight="normal"
+fill="#c9d1d9">
+n
+</text>
+
+</g>
+
+
+<g opacity="0">
+
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="0.46s"
+dur="0.25s"
+fill="freeze"/>
+
+<animateTransform
+attributeName="transform"
+type="translate"
+from="0,8"
+to="0,0"
+begin="0.46s"
+dur="0.25s"
+fill="freeze"/>
+
+<text
+x="57"
+y="100"
+font-family="monospace"
+font-size="19"
+font-weight="normal"
+fill="#c9d1d9">
+e
+</text>
+
+</g>
+
+
+<g opacity="0">
+
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="0.52s"
+dur="0.25s"
+fill="freeze"/>
+
+<animateTransform
+attributeName="transform"
+type="translate"
+from="0,8"
+to="0,0"
+begin="0.52s"
+dur="0.25s"
+fill="freeze"/>
+
+<text
+x="68"
+y="100"
+font-family="monospace"
+font-size="19"
+font-weight="normal"
+fill="#c9d1d9">
+o
+</text>
+
+</g>
+
+
+<g opacity="0">
+
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="0.58s"
+dur="0.25s"
+fill="freeze"/>
+
+<animateTransform
+attributeName="transform"
+type="translate"
+from="0,8"
+to="0,0"
+begin="0.58s"
+dur="0.25s"
+fill="freeze"/>
+
+<text
+x="79"
+y="100"
+font-family="monospace"
+font-size="19"
+font-weight="normal"
+fill="#c9d1d9">
+f
+</text>
+
+</g>
+
+
+<g opacity="0">
+
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="0.64s"
+dur="0.25s"
+fill="freeze"/>
+
+<animateTransform
+attributeName="transform"
+type="translate"
+from="0,8"
+to="0,0"
+begin="0.64s"
+dur="0.25s"
+fill="freeze"/>
+
+<text
+x="90"
+y="100"
+font-family="monospace"
+font-size="19"
+font-weight="normal"
+fill="#c9d1d9">
+e
+</text>
+
+</g>
+
+
+<g opacity="0">
+
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="0.7s"
+dur="0.25s"
+fill="freeze"/>
+
+<animateTransform
+attributeName="transform"
+type="translate"
+from="0,8"
+to="0,0"
+begin="0.7s"
+dur="0.25s"
+fill="freeze"/>
+
+<text
+x="101"
+y="100"
+font-family="monospace"
+font-size="19"
+font-weight="normal"
+fill="#c9d1d9">
+t
+</text>
+
+</g>
+
+
+<g opacity="0">
+
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="0.76s"
+dur="0.25s"
+fill="freeze"/>
+
+<animateTransform
+attributeName="transform"
+type="translate"
+from="0,8"
+to="0,0"
+begin="0.76s"
+dur="0.25s"
+fill="freeze"/>
+
+<text
+x="112"
+y="100"
+font-family="monospace"
+font-size="19"
+font-weight="normal"
+fill="#c9d1d9">
+c
+</text>
+
+</g>
+
+
+<g opacity="0">
+
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+begin="0.82s"
+dur="0.25s"
+fill="freeze"/>
+
+<animateTransform
+attributeName="transform"
+type="translate"
+from="0,8"
+to="0,0"
+begin="0.82s"
+dur="0.25s"
+fill="freeze"/>
+
+<text
+x="123"
+y="100"
+font-family="monospace"
+font-size="19"
+font-weight="normal"
+fill="#c9d1d9">
+h
+</text>
+
+</g>
+
+<g><clipPath id="aclip0"><rect x="26" y="113" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="1.08s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip0)" x="26" y="122" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip1"><rect x="26" y="123" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="1.11s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip1)" x="26" y="132" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip2"><rect x="26" y="133" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="1.14s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip2)" x="26" y="142" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip3"><rect x="26" y="143" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="1.17s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip3)" x="26" y="152" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip4"><rect x="26" y="153" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="1.2s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip4)" x="26" y="162" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip5"><rect x="26" y="163" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="1.23s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip5)" x="26" y="172" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip6"><rect x="26" y="173" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="1.26s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip6)" x="26" y="182" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip7"><rect x="26" y="183" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="1.29s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip7)" x="26" y="192" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip8"><rect x="26" y="193" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="1.32s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip8)" x="26" y="202" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip9"><rect x="26" y="203" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="1.35s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip9)" x="26" y="212" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip10"><rect x="26" y="213" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="1.38s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip10)" x="26" y="222" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip11"><rect x="26" y="223" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="1.41s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip11)" x="26" y="232" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip12"><rect x="26" y="233" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="1.44s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip12)" x="26" y="242" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip13"><rect x="26" y="243" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="1.47s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip13)" x="26" y="252" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip14"><rect x="26" y="253" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="1.5s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip14)" x="26" y="262" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip15"><rect x="26" y="263" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="1.53s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip15)" x="26" y="272" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip16"><rect x="26" y="273" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="1.56s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip16)" x="26" y="282" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%@@@@@@@@@%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip17"><rect x="26" y="283" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="1.59s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip17)" x="26" y="292" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@@%%#sscs#%@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip18"><rect x="26" y="293" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="1.62s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip18)" x="26" y="302" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@#c+-:::``.:=c%@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip19"><rect x="26" y="303" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="1.65s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip19)" x="26" y="312" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@s=:`.`:=+-``...-s@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip20"><rect x="26" y="313" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="1.68s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip20)" x="26" y="322" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@%+..:-=+*ccc*=:`. .+%@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip21"><rect x="26" y="323" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="1.71s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip21)" x="26" y="332" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@%- `+csssscscc**+:.  +%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip22"><rect x="26" y="333" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="1.74s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip22)" x="26" y="342" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%= :*csscccccc****+:.  *@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip23"><rect x="26" y="343" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="1.77s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip23)" x="26" y="352" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@s..+csssccccccccc**=.. `#@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip24"><rect x="26" y="353" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="1.8s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip24)" x="26" y="362" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@* :ccc*++**+=---=+**-   +%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip25"><rect x="26" y="363" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="1.83s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip25)" x="26" y="372" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@+ =c=-:`:*c-`::```-+*` .-%@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip26"><rect x="26" y="373" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="1.86s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip26)" x="26" y="382" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%-.**-=:`-c#+-=-:=*ccc:.::c@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip27"><rect x="26" y="383" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="1.89s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip27)" x="26" y="392" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%@s.`*ssc*cs#%c*cs##%#sc-`=`+%@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip28"><rect x="26" y="393" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="1.92s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip28)" x="26" y="402" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@%-..*#%%%ss##**+c###s*+-=: =#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip29"><rect x="26" y="403" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="1.95s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip29)" x="26" y="412" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@c-. -ssc+=*==::=+=*++==--  =s#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip30"><rect x="26" y="413" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="1.98s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip30)" x="26" y="422" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%c-`..**=-+c*+====-====::` .=cs#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip31"><rect x="26" y="423" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="2.01s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip31)" x="26" y="432" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@%%c:`..-*c+****++==++==-  . .=*##%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip32"><rect x="26" y="433" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="2.04s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip32)" x="26" y="442" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%@%%%*:``. .+*cssc***++=-`   ...-*s%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip33"><rect x="26" y="443" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="2.07s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip33)" x="26" y="452" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@%##c-::`.`..=*ccc**+=-:.   ....:+*#@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip34"><rect x="26" y="453" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="2.1s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip34)" x="26" y="462" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@#s*+-:```::```..-++=--:```     ...`=+*#@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip35"><rect x="26" y="463" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="2.13s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip35)" x="26" y="472" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@%%@@#c+-```..`.`::`..`.`=++=-:::`     ....`=+c%@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip36"><rect x="26" y="473" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="2.16s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip36)" x="26" y="482" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@%@@s+::--=+++c*=*-``.`-=``=++=--:.     ..`:``-+c%@%@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip37"><rect x="26" y="483" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="2.19s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip37)" x="26" y="492" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@%@%*--=*c*c*+*s**+:`. .:**-=++++=-:.. .....:-``:+s%@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip38"><rect x="26" y="493" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="2.22s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip38)" x="26" y="502" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@%@%=:=*c***+c=+++*--.....:+**cccccc+:...`...`::```-s%%@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip39"><rect x="26" y="503" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="2.25s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip39)" x="26" y="512" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@%%*:=*+cc***+-+cc+++-::` . `:=+**+=:`...`...:-++=::-s@%@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip40"><rect x="26" y="513" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="2.28s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip40)" x="26" y="522" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@%@s=-+**cc**+-=*s*-+*=:`==+-`        `-:..`..:==+c*:-=%@%@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip41"><rect x="26" y="523" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="2.31s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip41)" x="26" y="532" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@%@c=-*cc+++*=:+cc==**-`-++*c*++====+c*+-``:`.`=+++*+-:c@%@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip42"><rect x="26" y="533" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="2.34s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip42)" x="26" y="542" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@%@#++*c*+=+*+-++c*==-:=++**cccccsccsscc*-::::``-+++s=::=%@%@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip43"><rect x="26" y="543" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="2.37s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip43)" x="26" y="552" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@%@%**cc****=====+*==--=c*+*ccsc****cccc*+=+-:-:`-+**+=::`s@%@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip44"><rect x="26" y="553" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="2.4s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip44)" x="26" y="562" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@%@%c**cc*****+-=+cc+**+*c*+**cc**cssccc++****+`.`-+=s*---`=%%%@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip45"><rect x="26" y="563" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="2.43s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip45)" x="26" y="572" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@%%s**c*c**+++=:=cc**cc*c****ccccssc**c+*sscsss+..-++-*=:--`c@%@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip46"><rect x="26" y="573" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="2.46s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip46)" x="26" y="582" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@%@s*******c*+++--*c*ccc******cccccc**c*csssccsc*:`:=*c*=:--:-%@%@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip47"><rect x="26" y="583" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="2.49s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip47)" x="26" y="592" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@%@#******c***++=-=scccc*+++***ccccc**cccscccccsc*-:--=++*:-=--*%%@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip48"><rect x="26" y="593" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="2.52s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip48)" x="26" y="602" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@%@%*c*********++=-*ccccc*+++***cc*c**cscccccccc***=--=++**=-=-=+#@%@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip49"><rect x="26" y="603" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="2.55s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip49)" x="26" y="612" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@%%c***********+==-ccccc*=*++*****cc**csccccccc*+*+--:==*c*+--=++s@%@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip50"><rect x="26" y="613" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="2.58s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip50)" x="26" y="622" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@%@#*c***c*****++=--cc*cc==*+=***+*c*cccccc**c***+=-:`-=*cc**+=-=*#@%@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip51"><rect x="26" y="623" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="2.61s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip51)" x="26" y="632" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@%@%*cc*********++=--ccccc=+c*=+*+******+******==++--:`-+***c*++==*#@%@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip52"><rect x="26" y="633" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="2.64s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip52)" x="26" y="642" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@%cccccscccc***++=--cccs*=*c*=+*+*+***++*c*+*+--=+=-``=+*csc++++=*s@%@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip53"><rect x="26" y="643" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="2.67s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip53)" x="26" y="652" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@%%s*+==+*ccsccc*++--cccc+=cc+=+******++******+=-=++=::=+*cc***+==+#@%@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip54"><rect x="26" y="653" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="2.7s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip54)" x="26" y="662" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@%#c+=--=+=====`-cccc++cc*++******++******++=-=++-:+*c*cc**+=++#@%@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip55"><rect x="26" y="663" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="2.73s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip55)" x="26" y="672" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@%%@@@@%+=+++-:`. =c*cc=+cc+++**ccccc*cc**c***===++--+***c***=+++s@%@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip56"><rect x="26" y="673" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="2.76s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip56)" x="26" y="682" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@%%%%+=*+++=-``=**c*=*c*++**c*cccc******++*+==++::+*ccc*c+=+++*@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip57"><rect x="26" y="683" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="2.79s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip57)" x="26" y="692" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@%==+**++=:`-**c*=*s*+**ccc****c*cc***cc=:=++`:=*cccc+===+++#@%@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip58"><rect x="26" y="693" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="2.82s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip58)" x="26" y="702" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@%@*=++***+=-:+*c*+cc*****c*+=+*c**cccss+:=++=::+ccccc*+****+s@%@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip59"><rect x="26" y="703" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="2.85s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip59)" x="26" y="712" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@%@#==++**+==--=c++cc****cc*++*ccc*ccsc=::-=+=.`+***+=--+++++c@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip60"><rect x="26" y="713" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="2.88s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip60)" x="26" y="722" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@%@%c+-++**+==-:***cc**ccc*==+*c*****c+::::``:`.=++=-:.:css##%@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip61"><rect x="26" y="723" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="2.91s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip61)" x="26" y="732" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@%%c+==+***+==:-c*cc***c*=+++*ccccc*+=++==-:`:*cc*+--`=@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip62"><rect x="26" y="733" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="2.94s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip62)" x="26" y="742" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@%#c-=++**+==:-*c**ccc*+**+ccc*=-----=*c+=+*c*+=--:`c%%%%%@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip63"><rect x="26" y="743" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="2.97s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip63)" x="26" y="752" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@%c=-++**+=--=cccccc**+++*cc+======+=:`=cc*+=--:`*%%@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip64"><rect x="26" y="753" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="3.0s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip64)" x="26" y="762" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@%@%c+-+***+=-:=*c*****+***cc+*c*ccc*-:*cc*+=--``c%s%@%@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip65"><rect x="26" y="763" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="3.03s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip65)" x="26" y="772" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@%@#*c==++*+++=-=*cccc**cccccscc*+=:`=ccc*+=-:.:s%##@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip66"><rect x="26" y="773" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="3.06s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip66)" x="26" y="782" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@%c*+c=:=+***+=:-**c****+****+=---:=ssc*+=-:.:#%#%%@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip67"><rect x="26" y="783" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="3.09s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip67)" x="26" y="792" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@%@#*cc+c-:=+****+=:-c*********=--:-*scc*+=-:.-#%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip68"><rect x="26" y="793" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="3.12s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip68)" x="26" y="802" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@%@#+*+++s+-+*cc***=:+cc******=-+==cssc*+=:`.:**#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip69"><rect x="26" y="803" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="3.15s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip69)" x="26" y="812" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@%@s+=:`c*s*=+*ccc**+-:=**++*+==-+sssc*+-:`:-==*%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip70"><rect x="26" y="813" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="3.18s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip70)" x="26" y="822" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@%@sc==-+sc#s==*cscc*+=:+*+++=-+s#scc*=:..`====#@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip71"><rect x="26" y="823" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="3.21s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip71)" x="26" y="832" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@@sc*++===+*c=+cc*++====+*+=-*##sc*+-``-+***=s@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip72"><rect x="26" y="833" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="3.24s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip72)" x="26" y="842" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@@@%cc****+=++=++*+=--==+=*s#ss#ccc*+:..-**=-`+@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip73"><rect x="26" y="843" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="3.27s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip73)" x="26" y="852" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@%@#cc++*ccccc+=++++==+==+csss+=**+=:`:=+*-:::*%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip74"><rect x="26" y="853" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="3.3s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip74)" x="26" y="862" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@%%sc*+*++**c*=---=+*===+*cccc- -cc:`::`.`::--c@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip75"><rect x="26" y="863" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="3.33s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip75)" x="26" y="872" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@%@scc+++******++++=:+*==++***cc-.:+:`:::--===:*@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip76"><rect x="26" y="873" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="3.36s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip76)" x="26" y="882" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@@%csc+*****cc*++++:`.+*+==+**cs=-``---======--*@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip77"><rect x="26" y="883" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="3.39s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip77)" x="26" y="892" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@%@#cs*+++*ccsc*c*+-``:cc*==+*-:`...`:-=++=====-*@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip78"><rect x="26" y="893" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="3.42s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip78)" x="26" y="902" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@@%ccc++***cccc*+-::``s#cc*-:=:.....`::-===++-::*@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip79"><rect x="26" y="903" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="3.45s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip79)" x="26" y="912" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@%@%*+*cscccccs*=:```.+#sc*c*.`==`.```::-=++=-:--*@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip80"><rect x="26" y="913" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="3.48s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip80)" x="26" y="922" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@%@%*=+++*ss#ss=---:`:#c=+*:::..`-::`::-===-::--:c@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip81"><rect x="26" y="923" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="3.51s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip81)" x="26" y="932" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@%@#+***+++*ccc=-:`` -s--*:.`.``::::::---==-:=-::#@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip82"><rect x="26" y="933" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="3.54s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip82)" x="26" y="942" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@%@#+cc****c*=-```::.::.+-`:`:::::----==**=-=-``+%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip83"><rect x="26" y="943" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="3.57s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip83)" x="26" y="952" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@%@s*ccsscccc+=====-:.  :c*:=+-=++====++*+-:::-:c@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip84"><rect x="26" y="953" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="3.6s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip84)" x="26" y="962" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@%@c*sss#sc*=-----:`.. .s@c-+=cccccc*****-`:-=-:#@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip85"><rect x="26" y="963" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="3.63s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip85)" x="26" y="972" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@@%*csc**+==+++*++--`. +@%*-=+ccscccccsc:`-==:`=@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip86"><rect x="26" y="973" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="3.66s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip86)" x="26" y="982" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@%@#*sc**+++*cc**+=--:.:%%@*-=*ccssssss+:`-=--:`s@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip87"><rect x="26" y="983" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="3.69s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip87)" x="26" y="992" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@@@%c****cccc*cc+===:`..s@%@*:=+cs###c+--====--`-%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip88"><rect x="26" y="993" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="3.72s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip88)" x="26" y="1002" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@%@%++++cc*ccccs+=-:::.+@%%@*:=*sssc*+++++====-`c@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip89"><rect x="26" y="1003" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="3.75s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip89)" x="26" y="1012" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@%@s+*ccc*+*****+=--:.`#%%%@*:+c****ccc++=====:-%@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+<g><clipPath id="aclip90"><rect x="26" y="1013" width="0" height="10"><animate attributeName="width" from="0" to="640" begin="3.78s" dur="0.35s" fill="freeze"/></rect></clipPath><text clip-path="url(#aclip90)" x="26" y="1022" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#c9d1d9">@@@@@@@@@@@@@@@%@c*ccc****cc**=-:`..*@%@%%+-==+csssc*+=+++++:+%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text></g>
+</svg>

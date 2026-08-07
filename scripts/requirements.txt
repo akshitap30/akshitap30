@@ -1,0 +1,12 @@
+# Full local dependencies (portrait pipeline + automation)
+# Install with: pip install -r scripts/requirements.txt
+
+# --- Automation (also in requirements-ci.txt) ---
+requests==2.32.3
+beautifulsoup4==4.12.3
+
+# --- Portrait pipeline (local only, NOT needed in CI) ---
+pillow==12.3.0
+numpy==2.4.6
+opencv-python==5.0.0.93
+rembg==2.0.77
