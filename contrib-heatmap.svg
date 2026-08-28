@@ -399,7 +399,7 @@
 <rect x="154" y="145" width="14" height="14" rx="3" fill="#69f0a0"/>
 <text x="174" y="157" font-family="monospace" font-size="11" fill="#8b949e">More</text>
 <text x="1104" y="115" font-family="monospace" font-size="11" fill="#8b949e" text-anchor="end">Active days: 29</text>
-<text x="1104" y="129" font-family="monospace" font-size="11" fill="#8b949e" text-anchor="end">Current streak: 1 days</text>
+<text x="1104" y="129" font-family="monospace" font-size="11" fill="#8b949e" text-anchor="end">Current streak: 0 days</text>
 <text x="1104" y="143" font-family="monospace" font-size="11" fill="#8b949e" text-anchor="end">Longest streak: 10 days</text>
 <text x="1104" y="157" font-family="monospace" font-size="11" fill="#8b949e" text-anchor="end">Best day: level 30</text>
 </svg>
