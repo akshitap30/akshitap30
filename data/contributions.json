@@ -1,6 +1,6 @@
 {
   "username": "akshitap30",
-  "fetched_at": "2026-11-25",
+  "fetched_at": "2026-11-26",
   "note": "data-level used (0-4); GitHub JS hides raw counts from static HTML",
   "daily": {
     "2025-11-23": 0,
@@ -267,6 +267,7 @@
     "2026-11-05": 0,
     "2026-11-12": 0,
     "2026-11-19": 0,
+    "2026-11-26": 2,
     "2025-11-28": 0,
     "2025-12-05": 0,
     "2025-12-12": 0,
@@ -373,8 +374,8 @@
     "2026-11-21": 0
   },
   "stats": {
-    "total_active_days": 67,
-    "current_streak": 0,
+    "total_active_days": 68,
+    "current_streak": 1,
     "longest_streak": 10,
     "best_day": {
       "date": "2026-05-27",
@@ -393,7 +394,7 @@
       "2026-08": 62,
       "2026-09": 52,
       "2026-10": 90,
-      "2026-11": 8
+      "2026-11": 10
     }
   }
 }
