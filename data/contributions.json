@@ -1,6 +1,6 @@
 {
   "username": "akshitap30",
-  "fetched_at": "2026-11-27",
+  "fetched_at": "2026-11-28",
   "note": "data-level used (0-4); GitHub JS hides raw counts from static HTML",
   "daily": {
     "2025-11-23": 0,
@@ -372,11 +372,12 @@
     "2026-10-31": 2,
     "2026-11-07": 0,
     "2026-11-14": 0,
-    "2026-11-21": 0
+    "2026-11-21": 0,
+    "2026-11-28": 0
   },
   "stats": {
     "total_active_days": 68,
-    "current_streak": 1,
+    "current_streak": 0,
     "longest_streak": 10,
     "best_day": {
       "date": "2026-05-27",
